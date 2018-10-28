@@ -1,0 +1,58 @@
+
+#!cexversion
+3.0
+
+#!citelibrary
+name#LSJ Lexicon in Markdown. Original license info: Text provided by Perseus Digital Library, with funding from The National Endowment for the Humanities. Original version available for viewing and download at http://www.perseus.tufts.edu/. Many thanks to Giuseppe Celano! <https://github.com/gcelano/LSJ_GreekUnicode>
+urn#urn:cite2:cex:fufolio.2018a:markdownLSJ
+license#CC 3.0 NC-BY-SA.
+
+//
+// Collection Inventory:
+// This lexicon is a CITE Collection.
+// The other identified collections allow CITE to discover that 
+// the LSJ's entry, in this collection, is formatted in Markdown
+//
+#!citecollections
+URN#Description#Labelling property#Ordering property#License
+urn:cite2:hmt:lsj.markdown:#LSJ Greek-English Lexicon. Markdown#urn:cite2:hmt:lsj.markdown.key:#urn:cite2:hmt:lsj.markdown.seq:#CC 3.0 NC-BY-SA
+//
+// This is a collection of extended text properties
+//
+urn:cite2:fufolio:extended_text_properties.v1:#Extended Text Properties#urn:cite2:fufolio:extended_text_properties.v1.label:##CC-BY-SA
+
+// 
+// Properties for the extended_text_properties extension
+// In addition to the (standard) URN and label, there are:
+// a propertyurn, identifying the property of type "string", and
+// its type, an enumerated list of supported extensions.
+// (a different collection could define any other set of extension types.)
+//
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:fufolio:extended_text_properties.v1.urn:#URN#Cite2Urn#
+urn:cite2:fufolio:extended_text_properties.v1.label:#Label#String#
+urn:cite2:fufolio:extended_text_properties.v1.propertyurn:#Property URN#Cite2Urn#
+urn:cite2:fufolio:extended_text_properties.v1.extendedtype:#Extended Text Type#String#geojson,pleiadesuri,latlong,markdown,teixml
+
+
+//
+// Records for the extended_text_properties collection.
+// Note that we can identify properties at the versioned-collection-level _or_
+// at the individual object level.
+//
+#!citedata
+urn#label#propertyurn#extendedtype
+urn:cite2:fufolio:extended_text_properties.v1:lsj_md#LSJ (Markdown)#urn:cite2:hmt:lsj.markdown.entry:#markdown
+
+// Definition of the LSJ Collection
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:hmt:lsj.markdown.seq:#Seq#Number#
+urn:cite2:hmt:lsj.markdown.urn:#URN#Cite2Urn#
+urn:cite2:hmt:lsj.markdown.key:#Key#String#
+urn:cite2:hmt:lsj.markdown.entry:#Entry#String#
+
+#!citedata
+seq#urn#key#entry
