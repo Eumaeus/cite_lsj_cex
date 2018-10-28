@@ -15,7 +15,7 @@ license#CC 3.0 NC-BY-SA.
 //
 #!citecollections
 URN#Description#Labelling property#Ordering property#License
-urn:cite2:hmt:lsj.markdown:#LSJ Greek-English Lexicon. Markdown#urn:cite2:hmt:lsj.markdown.key:#urn:cite2:hmt:lsj.markdown.seq:#CC 3.0 NC-BY-SA
+urn:cts:hmt:lsj.markdown:#LSJ Greek-English Lexicon. Markdown#urn:cts:hmt:lsj.markdown.key:#urn:cts:hmt:lsj.markdown.seq:#CC 3.0 NC-BY-SA
 //
 // This is a collection of extended text properties
 //
@@ -43,16 +43,16 @@ urn:cite2:fufolio:extended_text_properties.v1.extendedtype:#Extended Text Type#S
 //
 #!citedata
 urn#label#propertyurn#extendedtype
-urn:cite2:fufolio:extended_text_properties.v1:lsj_md#LSJ (Markdown)#urn:cite2:hmt:lsj.markdown.entry:#markdown
+urn:cite2:fufolio:extended_text_properties.v1:lsj_md#LSJ (Markdown)#urn:cts:hmt:lsj.markdown.entry:#markdown
 
 // Definition of the LSJ Collection
 
 #!citeproperties
 Property#Label#Type#Authority list
-urn:cite2:hmt:lsj.markdown.seq:#Seq#Number#
-urn:cite2:hmt:lsj.markdown.urn:#URN#Cite2Urn#
-urn:cite2:hmt:lsj.markdown.key:#Key#String#
-urn:cite2:hmt:lsj.markdown.entry:#Entry#String#
+urn:cts:hmt:lsj.markdown.seq:#Seq#Number#
+urn:cts:hmt:lsj.markdown.urn:#URN#Cite2Urn#
+urn:cts:hmt:lsj.markdown.key:#Key#String#
+urn:cts:hmt:lsj.markdown.entry:#Entry#String#
 
 #!citedata
 seq#urn#key#entry
