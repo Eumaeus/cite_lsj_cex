@@ -20,3 +20,7 @@ License CC 3.0 BY-NC-SA.
 	1. A listing of all Greek words in the entry, in Beta Code without accents
 
 - **files** A directory of individual CEX fragments for each alphabetic division of the LSJ.	
+
+## Corrections
+
+Please submit corrections as issues in GitHub or (idally) in the form of pull-requests.
