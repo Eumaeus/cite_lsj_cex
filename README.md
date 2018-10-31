@@ -2,7 +2,7 @@
 
 This repository holds an edition of the LSJ Lexicon formatted as a [CEX](https://cite-architecture.github.io/citedx/CEX-spec-3.0.1/) file, with the lexicon's entries formatted lightly in Markdown.
 
-The original digitization of the public domain text of the LSJ is courtesy of the [Perseus Digital Library](http://www.perseus.tufts.edu/):  Text provided by Perseus Digital Library, with funding from The National Endowment for the Humanities.  Original version available for viewing and download at http://www.perseus.tufts.edu/
+The original digitization of the public domain text of the LSJ is courtesy of the [Perseus Digital Library](http://www.perseus.tufts.edu/):  Text provided by Perseus Digital Library, with funding from The National Endowment for the Humanities.  Original version available for viewing and download at <http://www.perseus.tufts.edu/>.
 
 The transformation of the Perseus text to an XML edition with composed Unicode was done by [Giuseppe Celano](https://github.com/gcelano/LSJ_GreekUnicode). The files here are a further transformation of Celano's work.
 
