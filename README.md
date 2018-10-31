@@ -12,7 +12,7 @@ License CC 3.0 BY-NC-SA.
 
 - **lsj.cex** A Cite Collection of the entries in the LSJ, with accompanying documentation of *a discoverable text property extension* identifying the `entry` property as a having a primtive type `String` and an extended type `Markdown`. URNs for the LSJ collection are, *e.g.* `urn:cts:hmt:lsj.markdown:n51`.
 
-- **lsj.index** A searchable index as tabulated lines, with `#` as the field delimiter. The fiels are:
+- **lsj.index** A searchable index as tabulated lines, with `#` as the field delimiter. The fields are:
 
 	1. The ID (object-selector) of an entry
 	1. The entry's key (*lemma*) in Unicode, normalized to remove diacritical marks
