@@ -23,4 +23,4 @@ License CC 3.0 BY-NC-SA.
 
 ## Corrections
 
-Please submit corrections as issues in GitHub or (idally) in the form of pull-requests.
+Please submit corrections as issues in GitHub or (ideally) in the form of pull-requests.
