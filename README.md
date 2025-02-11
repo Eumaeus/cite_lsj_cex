@@ -6,6 +6,8 @@ The original digitization of the public domain text of the LSJ is courtesy of th
 
 The transformation of the Perseus text to an XML edition with composed Unicode was done by [Giuseppe Celano](https://github.com/gcelano/LSJ_GreekUnicode). The files here are a further transformation of Celano's work.
 
+> Anyone reading this might be interested in this [end-user lexicon app](https://github.com/Eumaeus/LSJ.js) that uses this data.
+
 License CC 3.0 BY-NC-SA.
 
 ## Contents
