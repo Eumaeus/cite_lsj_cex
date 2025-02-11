@@ -10,7 +10,9 @@ License CC 3.0 BY-NC-SA.
 
 ## Contents
 
-- **lsj.cex** A Cite Collection of the entries in the LSJ, with accompanying documentation of *a discoverable text property extension* identifying the `entry` property as a having a primtive type `String` and an extended type `Markdown`. URNs for the LSJ collection are, *e.g.* `urn:cts:hmt:lsj.markdown:n51`.
+- **lsj_chicago.cex** A Cite Collection of the entries in the LSJ, with accompanying documentation of *a discoverable text property extension* identifying the `entry` property as a having a primtive type `String` and an extended type `Markdown`. URNs for the LSJ collection are, *e.g.* `urn:cts:hmt:lsj.markdown:n51`. This is based on the updated *LSJ* data from the University of Chicago.
+
+- **lsj_perseus.cex** The original data made avaiable by the Perseus Digital Library, converted to Markdown.
 
 - **lsj.index** A searchable index as tabulated lines, with `#` as the field delimiter. The fields are:
 
@@ -19,7 +21,7 @@ License CC 3.0 BY-NC-SA.
 	1. The entry's key (*lemma*) in Beta Code, normalized to remove diacritical marks
 	1. A listing of all Greek words in the entry, in Beta Code without accents
 
-- **files** A directory of individual CEX fragments for each alphabetic division of the LSJ.	
+- **files** A directory of individual CEX fragments for each alphabetic division of the LSJ. These fragments lack the `seq` field. 
 
 ## Corrections
 
