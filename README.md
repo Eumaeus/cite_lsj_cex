@@ -19,7 +19,7 @@ License CC 3.0 BY-NC-SA.
 - **lsj.index** A searchable index as tabulated lines, with `#` as the field delimiter. The fields are:
 
 	1. The ID (object-selector) of an entry
-	1. The entry's key (*lemma*) in Unicode, normalized to remove diacritical marks
+	1. The entry's key (*lemma*) in Unicode
 	1. The entry's key (*lemma*) in Beta Code, normalized to remove diacritical marks
 	1. A listing of all Greek words in the entry, in Beta Code without accents
 
